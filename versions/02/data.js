@@ -212,19 +212,5 @@ var data = {
 			]
 		},
 		//ADD EXTRA USER JOURNEYS DIRECTLY BELOW THIS TEXT
-		{
-			"title": "User Journey (Scenario) 3",
-			"path": [{
-					"caption": "Login",
-					"imgref": "images/00-login.png",
-					"note": [
-						"Portal login screen",
-						"This is a helpful note."
-					]
-				},
-				
-			]
-		},
-
 	]
 }
